@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 4AF5-FF5D
+
+ Directory of C:\Users\Dongare\Desktop\myproject
+
+06-01-2020  21:44    <DIR>          .
+06-01-2020  21:44    <DIR>          ..
+06-01-2020  21:44                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  23,792,852,992 bytes free
